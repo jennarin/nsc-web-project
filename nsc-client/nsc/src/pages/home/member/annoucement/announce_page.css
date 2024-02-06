@@ -1,0 +1,21 @@
+.content{
+  display: flex;
+  /* justify-content: space-around; */
+  align-items: center;
+  flex-direction: column;
+  /* margin-top: 25px; */
+  margin-bottom: 10px;
+
+}
+
+
+.info{
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  flex:1;
+  flex-direction: column;
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
